@@ -5,6 +5,7 @@
 <h3 align="left"> Languages and tools 🛠</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=ts)" height="60" alt="ts logo"  />
 </div>
 
 <hr class="solid">
