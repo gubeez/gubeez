@@ -12,8 +12,6 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
