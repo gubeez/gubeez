@@ -22,6 +22,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   
 
 
