@@ -6,8 +6,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
