@@ -6,6 +6,11 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
 </div>
 
 <hr class="solid">
