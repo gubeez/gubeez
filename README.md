@@ -1,4 +1,4 @@
-<h1 align="left">👋 I'm Lukas</h1>
+<h1 align="left">👋 I'm Luke! </h1>
 <h3 align="left"> → Manual trader becoming the quant. ⚛️ </br> → Currently automatising my own manual trading strategy. 🤖 </h3>
 
 <hr class="solid">
