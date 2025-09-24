@@ -5,10 +5,15 @@
 <h3 align="left"> Languages and tools 🛠</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="html logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
 </div>
 
