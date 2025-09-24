@@ -12,6 +12,8 @@
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="sass logo"  />
+  <img width="5" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  />
@@ -23,7 +25,14 @@
 </div>
 <h3 align="left"> Databases </h3>
 <div align="left">
-<img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
+<img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo"  />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+<img width="5" />
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+
 <br>
 <hr class="solid">
 <h3 align="left"> Tools I use ...</h3>
