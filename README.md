@@ -17,7 +17,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
 </div>
 <br>
-<h3 align="left"> Tools ...</h3>
+<hr class="solid">
+<h3 align="left"> Tools I use ...</h3>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
