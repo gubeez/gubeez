@@ -1,8 +1,6 @@
 <h1 align="left">👋 I'm Lukas</h1>
 <h3 align="left">📊 | From manual trader to the quant. </br> 📈 | Currently automatising my own manual trading strategy.</h3>
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
 ###
 
 <div align="left">
@@ -11,7 +9,7 @@
 
 ###
 
-<div align="center" >
+<div align="right" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
