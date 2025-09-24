@@ -1,7 +1,7 @@
 <h1 align="left">👋 I'm Lukas</h1>
 <h3 align="left">📊 | From manual trader to the quant. </br> 📈 | Currently automatising my own manual trading strategy.</h3>
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
