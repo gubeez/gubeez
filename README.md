@@ -23,5 +23,5 @@
 
 <h3 align="left">👇 | Contact me </h3>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=gmail)" height="35" alt="gmail logo"  />
+  <img src="https://skillicons.dev/icons?i=gmail" height="35" alt="gmail logo"  />
 </div>
