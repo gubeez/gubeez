@@ -19,7 +19,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   
 </div>
-<h3 align="left"> Databases </h3>
+<h3 align="left"> Databases ...</h3>
 <div align="left">
 <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
 <img width="5" />
