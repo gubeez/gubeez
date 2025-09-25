@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&color=36BA01&size=40&lines=The+Luke+Kube" alt="The Luke Kube" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BA01&size=50&lines=The+Luke+Kube" alt="The Luke Kube" />
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
