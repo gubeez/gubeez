@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=36BA01&size=50&lines=The+Luke+Kube" alt="The Luke Kube" />
+  <a href="https://github.com/thelukekube">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Luke Kube" /></a>
 </p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BA01&width=435&lines=Manual+Trader+becoming+the+quant.+%E2%9A%9B%EF%B8%8F;Automatising+my+own+trading+strategy" alt="Typing SVG" />
