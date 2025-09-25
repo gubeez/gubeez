@@ -40,7 +40,5 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=thelukekube)](https://git.io/streak-stats)
 
 
